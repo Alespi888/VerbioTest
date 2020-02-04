@@ -5,3 +5,4 @@ Instructions to execute the program:
 - There are examples of input and output files attached in the project. 
 
 - The program has been created following the Visitor design pattern.
+- Executable is created with VisualStudio in Release mode.
