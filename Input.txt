@@ -1,0 +1,28 @@
+Situations that program works correct:
+
+Normal text: 
+- one hundred and one
+- I have one hundred apples
+
+Counting numbers:
+
+one, two, three, four, five, six, seven, eight, nine, ten,
+eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty,
+thirty, forty, fifty, sixty, seventy, eighty, ninety,
+hundred, thousand, million.
+
+Random big numbers: 
+
+ten hundred, twenty hundred, eighty hundred.
+ten thousand, twenty thousand, eighty thousand.
+ten million, twenty million, eighty million.
+
+Complicate numbers in the middle of a text: eight hundred thousand fifty three thousand one hundred thirty two.
+
+Inside characters:
+(one) (one hundred and nine)
+[one] [one hundred and nine]
+"one" "one million three thousand one hundred ten"
+
+Middle - with spaces: twenty - four.
+Middle - without spaces: twenty-four does not work.
