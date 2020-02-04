@@ -42,5 +42,6 @@ int main()
     
     closeFiles(inFile, outFile);
     std::cout << "Conversion done\n";
+    std::cin.get();
     return 0;
 }
